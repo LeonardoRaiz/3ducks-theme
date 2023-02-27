@@ -1,0 +1,27 @@
+{
+  "name": "3ducks-dark",
+  "displayName": "3Ducks Dark Theme",
+  "description": "Theme for 3Ducks <3!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "3Ducks Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/3Ducks Dark Theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ducks",
+    "Leonardo"
+  ]
+}
