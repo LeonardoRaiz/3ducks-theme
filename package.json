@@ -2,9 +2,15 @@
   "name": "3ducks-dark",
   "displayName": "3Ducks Dark Theme",
   "description": "Theme for 3Ducks <3!",
-  "version": "0.0.1",
+  "publisher": "leonardoraiz",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.75.0"
+  },
+  "icon": "duck.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardoRaiz/3ducks-theme"
   },
   "categories": [
     "Themes"
