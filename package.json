@@ -3,7 +3,7 @@
   "displayName": "3Ducks Dark Theme",
   "description": "Theme for 3Ducks <3!",
   "publisher": "leonardoraiz",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -25,6 +25,10 @@
     ]
   },
   "keywords": [
+    "The best",
+    "Best",
+    "Best dark theme",
+    "3 Ducks",
     "theme",
     "dark theme",
     "ducks",
